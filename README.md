@@ -2,7 +2,7 @@
 
 # Chegg Education Web Development Course
 
-## Lesson: [Lesson Title]
+## Lesson: Pete Thinkful Web Page Design
 
 ### Overview
 
